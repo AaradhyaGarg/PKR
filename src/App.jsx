@@ -32,7 +32,7 @@ const siteProps = {
   linkedIn: "aaradhya-garg-548a50244",
   medium: "",
   twitter: "microsoft",
-  youTube: "@Aaradhya_garg",
+  youTube: "Aaradhya_garg",
 };
 
 const primaryColor = "#4E567E";
