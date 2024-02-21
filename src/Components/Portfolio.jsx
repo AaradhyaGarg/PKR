@@ -21,7 +21,7 @@ import React from "react";
  */
 import image from "../images/volcano.jpeg";
 
-const imageAltText = "I love Natural things.";
+const imageAltText = "I love Natural things";
 
 /**
  * Project list

@@ -18,7 +18,7 @@ import React from "react";
  */
 import image from "../images/sunset.jpg";
 
-const imageAltText = "I love Sunset. Sky looks beautiful.";
+const imageAltText = "I love Sunset. Sky looks beautiful";
 
 /**
  * Sort description that expands on your title on the Home component.
